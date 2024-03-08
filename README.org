@@ -11,7 +11,7 @@ Tested with Maya 2020 on Linux.
 
   #+BEGIN_SRC sh
     cd ~/dev
-    git clone https://github.com/crai9d/ermine.git
+    git clone https://github.com/cseivad/ermine.git
   #+END_SRC
 
 ** Maya installation
